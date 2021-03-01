@@ -6,8 +6,8 @@ image: /images/section_icons/sample-data/s_s1-sampledata-3x.png
 section: REFERENCE
 menu:
   latest:
-   identifier: sample-data
-   weight: 2950
+    identifier: sample-data
+    weight: 2950
 ---
 
 Use these sample datasets to explore and learn YugabyteDB. All of these are PostgreSQL-compatible, so you can use them to compare between PostgreSQL and YugabyteDB.

@@ -10,8 +10,8 @@ menu:
     identifier: benchmark-performance
     parent: benchmark
     weight: 720
-showAsideToc: True
-isTocNested: True
+showAsideToc: true
+isTocNested: true
 ---
 
 ## Goal

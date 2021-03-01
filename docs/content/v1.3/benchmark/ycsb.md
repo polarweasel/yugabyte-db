@@ -10,8 +10,8 @@ menu:
     identifier: benchmark-ycsb
     parent: benchmark
     weight: 740
-showAsideToc: True
-isTocNested: True
+showAsideToc: true
+isTocNested: true
 ---
 
 {{< note title="Note" >}}

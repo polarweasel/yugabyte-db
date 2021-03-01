@@ -10,8 +10,8 @@ menu:
     identifier: benchmark-large-datasets
     parent: benchmark
     weight: 750
-showAsideToc: True
-isTocNested: True
+showAsideToc: true
+isTocNested: true
 ---
 
 ## Goal

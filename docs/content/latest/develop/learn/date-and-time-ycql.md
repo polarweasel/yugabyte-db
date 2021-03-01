@@ -12,8 +12,6 @@ menu:
 type: page
 isTocNested: true
 showAsideToc: true
-isTocNested: true
-showAsideToc: true
 ---
 
 <ul class="nav nav-tabs-alt nav-tabs-yb">
